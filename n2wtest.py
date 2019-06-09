@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Jun  9 20:47:20 2019
-
-@author: mwangi ngugi
+Author: mwangi ngugi
+Purpose : a simple program to convert numbers into words using n2w function 
 """
-# pip install 
+# pip install n2w
 
 import n2w
 
