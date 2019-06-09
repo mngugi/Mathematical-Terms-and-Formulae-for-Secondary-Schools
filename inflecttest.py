@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Jun  9 19:27:19 2019
-
-@author: mwangi
-
+Author: mwangi
+Purpose : a simple program to convert numbers into words using inflect function 
 """
 # pip install inflect 
 
