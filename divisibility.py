@@ -3,7 +3,7 @@
 Spyder Editor
 
 Author:Mwangi
-Purpose: A program for variable input
+Purpose: A program that checks divisibility test for any number greater than 1 to infinity
     
 """
 # z can be any number greater than 0
