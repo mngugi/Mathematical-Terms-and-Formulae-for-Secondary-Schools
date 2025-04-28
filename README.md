@@ -1,5 +1,5 @@
 # Mathematical-Terms-and-Formulae-for-Secondary-Schools
-# Mathematical Terms and Formulae for Secondary Schools
+
 
 Welcome to **Mathematical Terms and Formulae for Secondary Schools** — a comprehensive, easy-to-navigate collection of essential definitions, theorems, and formulae for secondary school mathematics.
 
