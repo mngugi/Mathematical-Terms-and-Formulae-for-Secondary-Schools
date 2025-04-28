@@ -30,6 +30,22 @@ This repository serves as a quick reference guide and learning resource for:
 ```bash
 git clone https://github.com/mngugi/Mathematical-Terms-and-Formulae-for-Secondary-Schools.git
 ```
+---
+## 🎯 Objective
+- Make mathematical knowledge easily accessible.
+- Help students grasp key concepts efficiently.
+- Encourage self-study and quick revision.
+
+## 📜 License
+This project is licensed under the MIT License.
+
+## 🌟 Acknowledgments
+- Inspired by secondary school mathematics curricula worldwide.
+- Content carefully compiled and reviewed for accuracy.
+
+> "Pure mathematics is, in its way, the poetry of logical ideas."  
+> — Albert Einstein
+***
 ## NaturalNumbers.py
 **Code:**
 ```python
