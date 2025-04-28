@@ -1,4 +1,35 @@
 # Mathematical-Terms-and-Formulae-for-Secondary-Schools
+# Mathematical Terms and Formulae for Secondary Schools
+
+Welcome to **Mathematical Terms and Formulae for Secondary Schools** — a comprehensive, easy-to-navigate collection of essential definitions, theorems, and formulae for secondary school mathematics.
+
+This repository serves as a quick reference guide and learning resource for:
+- Students preparing for exams
+- Teachers compiling notes
+- Anyone seeking a structured overview of key mathematical concepts
+
+---
+
+## 📚 Topics Covered
+- Algebra (terms, identities, and techniques)
+- Geometry (properties, postulates, and theorems)
+- Trigonometry (ratios, identities, and formulas)
+- Calculus (introduction to limits, differentiation, integration)
+- Probability and Statistics (fundamentals and key formulae)
+- Coordinate Geometry
+- Vectors and Matrices
+- Measurements and Mensuration
+
+---
+
+## 🚀 How to Use
+- Browse individual markdown files organized by topic.
+- Use the search feature to quickly find specific terms or formulae.
+- Clone the repository for offline access.
+
+```bash
+git clone https://github.com/mngugi/Mathematical-Terms-and-Formulae-for-Secondary-Schools.git
+```
 ## NaturalNumbers.py
 **Code:**
 ```python
